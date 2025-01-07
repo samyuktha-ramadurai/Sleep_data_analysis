@@ -1,4 +1,4 @@
-# My_Oura_data
+# Sleep_data_analysis
 
 
 This is repository for my Oura sleep data analysis. It contains the following files:
